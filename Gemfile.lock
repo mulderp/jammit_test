@@ -1,0 +1,22 @@
+GIT
+  remote: git://github.com/mulderp/jammit.git
+  revision: a6382c279c37b1f8b29687e351f06f27ece3f7c2
+  branch: rack
+  specs:
+    jammit (0.6.6)
+      cssmin (>= 1.0.3)
+      jsmin (>= 1.0.1)
+      rack (>= 1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    cssmin (1.0.3)
+    jsmin (1.0.1)
+    rack (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jammit!
